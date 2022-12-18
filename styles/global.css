@@ -1,0 +1,37 @@
+body,
+html, body > div:first-child,
+div#__next,
+div#__next > div {
+    height: 100%;
+    background-color:rgb(42, 59, 56);
+}
+
+
+.overFlow {
+    width: 100%;
+    border-radius: 50%;
+    padding: 5px;
+    overflow: hidden;
+}
+
+.overFlow img{
+    transform: scale(1);
+    transition: all 0.2s;
+}
+
+.overFlow img:hover {
+    transform: scale(1.8);
+}
+
+#nprogress .bar {
+    background-color:brown !important;
+}
+
+#nprogress .spinner-icon {
+    border-top-color: brown;
+    border-left-color: #ffbb00;
+}
+
+
+
+
