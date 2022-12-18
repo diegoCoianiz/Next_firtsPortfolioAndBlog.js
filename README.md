@@ -1,4 +1,4 @@
-Hi!!! this is my first experience using Next.Js learning with the developer and youtuber [Fatz](https://github.com/fazt) with his [2 hours video about it!](https://www.youtube.com/watch?v=Ywj6YGgE5RI&list=PLo5lAe9kQrwqPBOPX_Usxe123P_-VngDn&ab_channel=FaztCode), for sure if you are from Latinamerica or Spain you know him however, if you are not, you can follow him on [youtube](https://www.youtube.com/fazttech) and you fill find, as me, lot of courses and awsome videos to watch and learn technolgies most of them related to Javascript - Node.Js
+Hi!!! for this experience using Next.Js I take the course of the developer and youtuber [Fatz](https://github.com/fazt) and I complete his [2 hours video about how toc reate a frontend blog](https://www.youtube.com/watch?v=Ywj6YGgE5RI&list=PLo5lAe9kQrwqPBOPX_Usxe123P_-VngDn&ab_channel=FaztCode). For sure if you are from Latinamerica or Spain you know him however, if you are not, you can follow him on [youtube](https://www.youtube.com/fazttech) and you fill find, as me, lot of courses and awsome videos to watch and learn technolgies most of them related to Javascript - Node.Js
 
 ## Getting Started
 
